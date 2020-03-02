@@ -1,0 +1,11 @@
+/Users/user/Projects/FuncProg_Test/FuncProg_Test/bin/Debug/netcoreapp3.1/FuncProg_Test.deps.json
+/Users/user/Projects/FuncProg_Test/FuncProg_Test/bin/Debug/netcoreapp3.1/FuncProg_Test.runtimeconfig.json
+/Users/user/Projects/FuncProg_Test/FuncProg_Test/bin/Debug/netcoreapp3.1/FuncProg_Test.runtimeconfig.dev.json
+/Users/user/Projects/FuncProg_Test/FuncProg_Test/bin/Debug/netcoreapp3.1/FuncProg_Test.dll
+/Users/user/Projects/FuncProg_Test/FuncProg_Test/bin/Debug/netcoreapp3.1/FuncProg_Test.pdb
+/Users/user/Projects/FuncProg_Test/FuncProg_Test/obj/Debug/netcoreapp3.1/FuncProg_Test.csprojAssemblyReference.cache
+/Users/user/Projects/FuncProg_Test/FuncProg_Test/obj/Debug/netcoreapp3.1/FuncProg_Test.csproj.CoreCompileInputs.cache
+/Users/user/Projects/FuncProg_Test/FuncProg_Test/obj/Debug/netcoreapp3.1/FuncProg_Test.AssemblyInfoInputs.cache
+/Users/user/Projects/FuncProg_Test/FuncProg_Test/obj/Debug/netcoreapp3.1/FuncProg_Test.AssemblyInfo.cs
+/Users/user/Projects/FuncProg_Test/FuncProg_Test/obj/Debug/netcoreapp3.1/FuncProg_Test.dll
+/Users/user/Projects/FuncProg_Test/FuncProg_Test/obj/Debug/netcoreapp3.1/FuncProg_Test.pdb
