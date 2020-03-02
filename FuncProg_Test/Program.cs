@@ -24,6 +24,10 @@ namespace FuncProg_Test
             Console.WriteLine(numbers.Most());
             Console.WriteLine(grades.Most());
             Console.WriteLine(words.Most());
+            //num5
+            Console.WriteLine(1.Convertt());
+            Console.WriteLine(12.Convertt());
+            Console.WriteLine(30.Convertt());
             //num6
             Console.WriteLine(sentence.TrimS(8));
             //num7
